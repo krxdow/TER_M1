@@ -1,0 +1,2329 @@
+{
+  "id" : 6,
+  "created" : "2020-05-04T14:27:13.613+02:00",
+  "owner" : {
+    "id" : 1,
+    "created" : "2020-03-19T11:40:13.739+01:00",
+    "username" : "jsallantin",
+    "firstName" : "Jean",
+    "lastName" : "Sallantin",
+    "email" : "jean.sallantin@gmail.com",
+    "tokenValidity" : "2020-06-30T09:38:28.34768+02:00",
+    "active" : true,
+    "invitedDebates" : null,
+    "comments" : null,
+    "createdDebates" : null,
+    "institution" : {
+      "id" : 0,
+      "created" : "2020-03-18T12:19:18.90632+01:00",
+      "users" : null,
+      "teams" : null
+    },
+    "teams" : null,
+    "notifications" : null,
+    "authority" : "ADMIN"
+  },
+  "active" : true,
+  "teams" : [ ],
+  "guests" : [ ],
+  "comments" : [ {
+    "id" : 141,
+    "created" : "2020-07-03T15:11:53.93+02:00",
+    "owner" : {
+      "id" : 88,
+      "created" : "2020-07-03T10:46:29.615+02:00",
+      "username" : "Claire",
+      "firstName" : "Claire",
+      "lastName" : "Ollagnon",
+      "email" : "claire.ollagnon@cartodebat.com",
+      "tokenValidity" : "2020-07-03T10:46:29.609+02:00",
+      "active" : true,
+      "invitedDebates" : null,
+      "comments" : null,
+      "createdDebates" : null,
+      "institution" : 0,
+      "teams" : null,
+      "notifications" : null,
+      "authority" : "MODO"
+    },
+    "reformulation" : "tout à fait",
+    "argumentation" : "c'est une manière d'organiser la confiance dans l'équité des échanges sur le montant, la durée et l'espace... le montant, c'est etre sur qu'il ne faudra pas une pipette de bitcoin pour payer le lendemain ce qu'on acheté une cuillère à café la veille et que ce soit le cas de l'autre coté de la planete, que l'Euro du parisien qui lui permet d'acheter une baguette à Paris, soit pas loin de l'Eco du sénégalais qui souhaite acheter la meme baguette chez lui, ce serait une belle utopie aussi.\nEn réduisant l'espace, la monnaie locale semble réduire les distorsions. Beaucoup comme E Todd souhaitent cette réduction en demandant une sortie de l'euro, d'ailleurs.",
+    "selection" : "C'est en effet",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 14,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 79,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "proposedTags" : [ ]
+  }, {
+    "id" : 142,
+    "created" : "2020-07-03T15:13:46.73+02:00",
+    "owner" : 88,
+    "reformulation" : "la confiance",
+    "argumentation" : "soigner les relations",
+    "selection" : "manière d'organiser la confiance",
+    "startContainer" : "0",
+    "startOffset" : 10,
+    "endContainer" : "0",
+    "endOffset" : 42,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 141,
+    "debate" : 6,
+    "opinion" : "AGAINST",
+    "hypostases" : [ "QUALITATIVE" ],
+    "proposedTags" : [ ]
+  }, {
+    "id" : 79,
+    "created" : "2020-05-04T14:38:49.33+02:00",
+    "owner" : 1,
+    "reformulation" : "la monnaie est une manière de faire et d'organiser la société",
+    "argumentation" : "C'est en effet une manière d'organiser l'échange de bien et de service dans une société",
+    "selection" : "<p>la monnaie sous-entend une manière de voir, de faire et d'organiser la société.</p><p></p>",
+    "startContainer" : "0/0",
+    "startOffset" : 203,
+    "endContainer" : "1",
+    "endOffset" : 0,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "STRUCTURAL", "QUALITATIVE" ],
+    "tags" : [ {
+      "value" : "fonctionnement",
+      "negative" : false,
+      "power" : 0.6794115
+    }, {
+      "value" : "unité monétaire",
+      "negative" : false,
+      "power" : 0.28044125
+    }, {
+      "value" : "organisation de la société",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "compte commun",
+      "negative" : false,
+      "power" : 0.49446288
+    }, {
+      "value" : "société humaine",
+      "negative" : false,
+      "power" : 0.6198085
+    }, {
+      "value" : "échanges",
+      "negative" : false,
+      "power" : 0.40488425
+    }, {
+      "value" : "organisation",
+      "negative" : false,
+      "power" : 0.2623628
+    }, {
+      "value" : "échange",
+      "negative" : false,
+      "power" : 0.28590235
+    }, {
+      "value" : "monnaie>argent",
+      "negative" : false,
+      "power" : 0.49446288
+    }, {
+      "value" : "organisation sociale",
+      "negative" : false,
+      "power" : 0.34791782
+    } ],
+    "proposedTags" : [ {
+      "value" : "fonctionnement",
+      "negative" : false,
+      "power" : 0.6794115
+    }, {
+      "value" : "unité monétaire",
+      "negative" : false,
+      "power" : 0.28044125
+    }, {
+      "value" : "organisation de la société",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "échanges",
+      "negative" : false,
+      "power" : 0.40488425
+    }, {
+      "value" : "société humaine",
+      "negative" : false,
+      "power" : 0.6198085
+    }, {
+      "value" : "organisation",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "échange",
+      "negative" : false,
+      "power" : 0.2859024
+    }, {
+      "value" : "organisation sociale",
+      "negative" : false,
+      "power" : 0.34666803
+    }, {
+      "value" : "monnaie>argent",
+      "negative" : false,
+      "power" : 0.41534883
+    } ]
+  }, {
+    "id" : 80,
+    "created" : "2020-05-04T14:44:31.335+02:00",
+    "owner" : 1,
+    "reformulation" : "les monnaies locales répondent à des besoins identifiés par leurs porteurs et utilisateurs",
+    "argumentation" : "Ces porteurs et utilisateurs sont locaux ils peuvent se concerter pour utiliser les monnaies locales pour faire les investissements qui leurs paraissent les plus justifiés",
+    "selection" : "Elles répondent toutes à une diversité des besoins sociaux, écologiques et territoriaux identifiés par leurs porteurs et utilisateurs.",
+    "startContainer" : "5/0",
+    "startOffset" : 269,
+    "endContainer" : "5/0",
+    "endOffset" : 403,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "EXPLANATION" ],
+    "tags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.46509805
+    }, {
+      "value" : "monde occidental",
+      "negative" : false,
+      "power" : 0.249706
+    }, {
+      "value" : "alphabet grec",
+      "negative" : false,
+      "power" : 0.23524913
+    }, {
+      "value" : "utilisateur",
+      "negative" : false,
+      "power" : 0.5769243
+    }, {
+      "value" : "cyrillique",
+      "negative" : false,
+      "power" : 0.33628786
+    }, {
+      "value" : "système d'écriture",
+      "negative" : false,
+      "power" : 0.3315629
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 0.4
+    }, {
+      "value" : "monnaies locales",
+      "negative" : false,
+      "power" : 0.789349
+    }, {
+      "value" : "répondre à des besoins",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "principes fondateurs",
+      "negative" : false,
+      "power" : 0.41887772
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.4650859
+    }, {
+      "value" : "alphabet grec",
+      "negative" : true,
+      "power" : 0.53994745
+    }, {
+      "value" : "utilisateur",
+      "negative" : false,
+      "power" : 0.57690835
+    }, {
+      "value" : "cyrillique",
+      "negative" : true,
+      "power" : 0.78624487
+    }, {
+      "value" : "besoins énergétiques",
+      "negative" : false,
+      "power" : 0.8972708
+    }, {
+      "value" : "besoins fondamentaux",
+      "negative" : false,
+      "power" : 0.4733576
+    }, {
+      "value" : "besoins vitaux",
+      "negative" : false,
+      "power" : 0.9662791
+    }, {
+      "value" : "besoins élémentaires",
+      "negative" : false,
+      "power" : 0.3986939
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 0.4
+    }, {
+      "value" : "monnaies locales",
+      "negative" : false,
+      "power" : 0.7893471
+    }, {
+      "value" : "répondre à des besoins",
+      "negative" : false,
+      "power" : 1.0
+    } ]
+  }, {
+    "id" : 81,
+    "created" : "2020-05-04T15:09:36.8+02:00",
+    "owner" : 1,
+    "reformulation" : "la monnaie locale est un outil  utile en période de crise financière",
+    "argumentation" : "En effet  elle permet des investissements choisis par des citoyens d'une même ville",
+    "selection" : "La monnaie citoyenne est-elle un outil qui peut répondre à cette période de crise financière",
+    "startContainer" : "7/0",
+    "startOffset" : 0,
+    "endContainer" : "7/0",
+    "endOffset" : 92,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "EXPLANATION" ],
+    "tags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.39970607
+    }, {
+      "value" : "être utile",
+      "negative" : false,
+      "power" : 0.06213019
+    }, {
+      "value" : "tutélaire",
+      "negative" : false,
+      "power" : 0.062105656
+    }, {
+      "value" : "crucial",
+      "negative" : false,
+      "power" : 0.054041006
+    }, {
+      "value" : "expédient",
+      "negative" : false,
+      "power" : 0.04635072
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.34486723
+    }, {
+      "value" : "salutaire",
+      "negative" : false,
+      "power" : 0.06351006
+    }, {
+      "value" : "formateur",
+      "negative" : false,
+      "power" : 0.042142067
+    }, {
+      "value" : "rentable",
+      "negative" : false,
+      "power" : 0.049401868
+    }, {
+      "value" : "enrichissant",
+      "negative" : false,
+      "power" : 0.07564737
+    }, {
+      "value" : "utilisable",
+      "negative" : false,
+      "power" : 0.08781489
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.046621315
+    }, {
+      "value" : "en temps utile",
+      "negative" : false,
+      "power" : 0.10195724
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "crise économique",
+      "negative" : false,
+      "power" : 0.3416857
+    }, {
+      "value" : "propice",
+      "negative" : false,
+      "power" : 0.042280663
+    }, {
+      "value" : "moyen d'action",
+      "negative" : false,
+      "power" : 0.6802352
+    }, {
+      "value" : "crise financière",
+      "negative" : false,
+      "power" : 0.5157059
+    }, {
+      "value" : "crise commerciale",
+      "negative" : false,
+      "power" : 0.47309843
+    }, {
+      "value" : "instructif",
+      "negative" : false,
+      "power" : 0.061602518
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.77764976
+    }, {
+      "value" : "être utile",
+      "negative" : false,
+      "power" : 0.45633444
+    }, {
+      "value" : "crucial",
+      "negative" : false,
+      "power" : 0.054041006
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.34486723
+    }, {
+      "value" : "salutaire",
+      "negative" : false,
+      "power" : 0.06351006
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.88824886
+    }, {
+      "value" : "utilisable",
+      "negative" : false,
+      "power" : 0.6457829
+    }, {
+      "value" : "en temps utile",
+      "negative" : false,
+      "power" : 0.10195724
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "crise économique",
+      "negative" : false,
+      "power" : 0.60700715
+    }, {
+      "value" : "moyen d'action",
+      "negative" : false,
+      "power" : 0.6802352
+    }, {
+      "value" : "crise financière",
+      "negative" : false,
+      "power" : 0.515649
+    }, {
+      "value" : "crise commerciale",
+      "negative" : false,
+      "power" : 0.47309843
+    } ]
+  }, {
+    "id" : 82,
+    "created" : "2020-05-04T15:14:02.069+02:00",
+    "owner" : 1,
+    "reformulation" : "la monnaie locale est un outil financier",
+    "argumentation" : "La monnaie locale a servi déjà d'outil en période de crise",
+    "selection" : "La monnaie citoyenne est-elle un outil",
+    "startContainer" : "7/0",
+    "startOffset" : 0,
+    "endContainer" : "7/0",
+    "endOffset" : 38,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "PHENOMENON" ],
+    "tags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.77764976
+    }, {
+      "value" : "outil",
+      "negative" : false,
+      "power" : 0.002325502
+    }, {
+      "value" : "Sol-violette",
+      "negative" : false,
+      "power" : 0.0015898617
+    }, {
+      "value" : "financier",
+      "negative" : false,
+      "power" : 0.0010843722
+    }, {
+      "value" : "MLC",
+      "negative" : false,
+      "power" : 0.38048488
+    }, {
+      "value" : "économie",
+      "negative" : false,
+      "power" : 0.001682495
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.88824886
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.008161473
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "locale",
+      "negative" : false,
+      "power" : 2.0423126E-4
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.77764976
+    }, {
+      "value" : "outil",
+      "negative" : false,
+      "power" : 0.002325502
+    }, {
+      "value" : "financier",
+      "negative" : false,
+      "power" : 0.0010908914
+    }, {
+      "value" : "Sol-violette",
+      "negative" : false,
+      "power" : 0.023847926
+    }, {
+      "value" : "MLC",
+      "negative" : false,
+      "power" : 0.38048488
+    }, {
+      "value" : "économie",
+      "negative" : false,
+      "power" : 0.0016876531
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.88824886
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.0030587558
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "locale",
+      "negative" : false,
+      "power" : 0.0030634687
+    } ]
+  }, {
+    "id" : 83,
+    "created" : "2020-05-07T09:22:06.094+02:00",
+    "owner" : {
+      "id" : 72,
+      "created" : "2020-05-05T15:24:28.806+02:00",
+      "username" : "Andrea",
+      "firstName" : "Andrea",
+      "lastName" : "CARO",
+      "email" : "andreacarogomez@gmail.com",
+      "tokenValidity" : "2020-06-30T09:38:28.34768+02:00",
+      "active" : true,
+      "invitedDebates" : null,
+      "comments" : null,
+      "createdDebates" : null,
+      "institution" : 0,
+      "teams" : null,
+      "notifications" : null,
+      "authority" : "USER"
+    },
+    "reformulation" : "La monnaie est aussi une institution\n",
+    "argumentation" : "Ce côte instituant de la monnaie facilité la réflexion comme un bien-commun\n",
+    "selection" : "la monnaie sous-entend une manière de voir, de faire et d'organiser la société.",
+    "startContainer" : "0/0",
+    "startOffset" : 203,
+    "endContainer" : "0/0",
+    "endOffset" : 282,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "institution monétaire",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "monnaie active",
+      "negative" : false,
+      "power" : 0.7010482
+    }, {
+      "value" : "monnaie bancaire",
+      "negative" : false,
+      "power" : 0.29313204
+    }, {
+      "value" : "monnaie effective",
+      "negative" : false,
+      "power" : 0.72620547
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.72620547
+    } ]
+  }, {
+    "id" : 84,
+    "created" : "2020-05-07T09:59:46.551+02:00",
+    "owner" : 1,
+    "reformulation" : "la monnaie  sert à penser le bien commun",
+    "argumentation" : "je ne suis pas sur que on ai besoin de monnaie pour penser le bien commun",
+    "selection" : "Ce côte instituant de la monnaie facilité la réflexion comme un bien-commun",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 75,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 83,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "bien commun",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "penser",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.22755288
+    } ]
+  }, {
+    "id" : 85,
+    "created" : "2020-05-07T10:02:01.115+02:00",
+    "owner" : 72,
+    "reformulation" : "J'ai besoin de la monnaie\n",
+    "argumentation" : "Sans monnaie, Il est de vivre...",
+    "selection" : "je ne suis pas sur que on ai besoin de monnaie",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 46,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 84,
+    "debate" : 6,
+    "opinion" : "AGAINST",
+    "hypostases" : [ ],
+    "tags" : [ {
+      "value" : "monnaie faible",
+      "negative" : false,
+      "power" : 0.7627673
+    }, {
+      "value" : "monnaie active",
+      "negative" : false,
+      "power" : 0.7010482
+    }, {
+      "value" : "monnaie droite",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "monnaie convertible",
+      "negative" : false,
+      "power" : 0.73291403
+    }, {
+      "value" : "monnaie métallique",
+      "negative" : false,
+      "power" : 0.9937107
+    }, {
+      "value" : "monnaie effective",
+      "negative" : false,
+      "power" : 0.72620547
+    }, {
+      "value" : "monnaie contremarquée",
+      "negative" : false,
+      "power" : 0.7127883
+    }, {
+      "value" : "monnaie clé",
+      "negative" : false,
+      "power" : 0.7345912
+    }, {
+      "value" : "monnaie rognée",
+      "negative" : false,
+      "power" : 0.73291403
+    }, {
+      "value" : "monnaie bancaire",
+      "negative" : false,
+      "power" : 0.73291403
+    }, {
+      "value" : "monnaie décimale",
+      "negative" : false,
+      "power" : 0.71614254
+    }, {
+      "value" : "monnaie constitutionnelle",
+      "negative" : false,
+      "power" : 0.6926625
+    }, {
+      "value" : "monnaie chargée",
+      "negative" : false,
+      "power" : 0.99245286
+    }, {
+      "value" : "monnaie authentique",
+      "negative" : false,
+      "power" : 0.70607966
+    }, {
+      "value" : "monnaie dépréciée",
+      "negative" : false,
+      "power" : 0.7849057
+    }, {
+      "value" : "monnaie d'argent",
+      "negative" : false,
+      "power" : 0.7557233
+    }, {
+      "value" : "monnaie éclatée",
+      "negative" : false,
+      "power" : 0.69937104
+    }, {
+      "value" : "monnaie inanimée",
+      "negative" : false,
+      "power" : 0.73962265
+    }, {
+      "value" : "monnaie serrate",
+      "negative" : false,
+      "power" : 0.72620547
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.72620547
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaie faible",
+      "negative" : true,
+      "power" : 0.7627673
+    }, {
+      "value" : "monnaie droite",
+      "negative" : true,
+      "power" : 1.0
+    }, {
+      "value" : "monnaie métallique",
+      "negative" : true,
+      "power" : 0.9937107
+    }, {
+      "value" : "monnaie effective",
+      "negative" : false,
+      "power" : 0.72620547
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "monnaie contremarquée",
+      "negative" : true,
+      "power" : 0.7127883
+    }, {
+      "value" : "monnaie rognée",
+      "negative" : true,
+      "power" : 0.73291403
+    }, {
+      "value" : "monnaie décimale",
+      "negative" : true,
+      "power" : 0.71614254
+    }, {
+      "value" : "monnaie chargée",
+      "negative" : true,
+      "power" : 0.99245286
+    }, {
+      "value" : "monnaie dépréciée",
+      "negative" : true,
+      "power" : 0.7849057
+    }, {
+      "value" : "monnaie d'argent",
+      "negative" : true,
+      "power" : 0.7557233
+    }, {
+      "value" : "monnaie serrate",
+      "negative" : true,
+      "power" : 0.72620547
+    }, {
+      "value" : "monnaie inanimée",
+      "negative" : true,
+      "power" : 0.73962265
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.72620547
+    } ]
+  }, {
+    "id" : 86,
+    "created" : "2020-05-07T11:33:56.324+02:00",
+    "owner" : 1,
+    "reformulation" : "Aujourdhui il faut  disposer d'une monnaie",
+    "argumentation" : "C'est un problème d'avoir une monnaie utile pour que chacun puisse survivre",
+    "selection" : "Sans monnaie, Il est de vivre...",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 32,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 85,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "DIFFICULTY" ],
+    "tags" : [ {
+      "value" : "monnaie faible",
+      "negative" : false,
+      "power" : 0.3051069
+    }, {
+      "value" : "création monétaire",
+      "negative" : false,
+      "power" : 0.63342917
+    }, {
+      "value" : "monnaie droite",
+      "negative" : false,
+      "power" : 0.4
+    }, {
+      "value" : "monnaie convertible",
+      "negative" : false,
+      "power" : 0.29316562
+    }, {
+      "value" : "monnaie métallique",
+      "negative" : false,
+      "power" : 0.39748427
+    }, {
+      "value" : "monnaie effective",
+      "negative" : false,
+      "power" : 0.2904822
+    }, {
+      "value" : "Gold Exchange Standard",
+      "negative" : false,
+      "power" : 0.7817967
+    }, {
+      "value" : "monnaie clé",
+      "negative" : false,
+      "power" : 0.29383647
+    }, {
+      "value" : "monnaie rognée",
+      "negative" : false,
+      "power" : 0.29316562
+    }, {
+      "value" : "monnaie bancaire",
+      "negative" : false,
+      "power" : 0.29316562
+    }, {
+      "value" : "journal officiel",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "commission générale de terminologie et de néologie",
+      "negative" : false,
+      "power" : 0.79527074
+    }, {
+      "value" : "Journal officiel de la République française",
+      "negative" : false,
+      "power" : 0.3949845
+    }, {
+      "value" : "monnaie chargée",
+      "negative" : false,
+      "power" : 0.39698112
+    }, {
+      "value" : "monnaie dépréciée",
+      "negative" : false,
+      "power" : 0.31396225
+    }, {
+      "value" : "monnaie d'argent",
+      "negative" : false,
+      "power" : 0.3022893
+    }, {
+      "value" : "monnaie inanimée",
+      "negative" : false,
+      "power" : 0.29584906
+    }, {
+      "value" : "monnaie serrate",
+      "negative" : false,
+      "power" : 0.2904822
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.2904822
+    }, {
+      "value" : "centime",
+      "negative" : false,
+      "power" : 0.61216587
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaie active",
+      "negative" : false,
+      "power" : 0.7010482
+    }, {
+      "value" : "monnaie bancaire",
+      "negative" : false,
+      "power" : 0.73291403
+    }, {
+      "value" : "monnaie effective",
+      "negative" : false,
+      "power" : 0.72620547
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.72620547
+    } ]
+  }, {
+    "id" : 87,
+    "created" : "2020-05-07T11:38:18.941+02:00",
+    "owner" : 1,
+    "reformulation" : "les monnaies doivent tenir compte de l'écosystème local",
+    "argumentation" : "c'est un problème, comment faire des monnaies qui tiennent compte  de toutes les dimensions d'un écosystème?",
+    "selection" : "ils doivent tenir compte aussi de l'écosystème.",
+    "startContainer" : "15/0",
+    "startOffset" : 30,
+    "endContainer" : "15/0",
+    "endOffset" : 77,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ {
+      "value" : "monnaies gauloises",
+      "negative" : false,
+      "power" : 0.14034207
+    }, {
+      "value" : "écosystème",
+      "negative" : false,
+      "power" : 0.39711317
+    }, {
+      "value" : "république",
+      "negative" : false,
+      "power" : 0.13518435
+    }, {
+      "value" : "compter avec",
+      "negative" : false,
+      "power" : 0.13614051
+    }, {
+      "value" : "argent",
+      "negative" : false,
+      "power" : 0.34699327
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.34274808
+    }, {
+      "value" : "monnaie de nécessité",
+      "negative" : false,
+      "power" : 0.1781798
+    }, {
+      "value" : "unitaire",
+      "negative" : false,
+      "power" : 0.16658327
+    }, {
+      "value" : "scrupule",
+      "negative" : false,
+      "power" : 0.17490293
+    }, {
+      "value" : "local",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "monétaire",
+      "negative" : false,
+      "power" : 0.27196202
+    }, {
+      "value" : "régime semi-présidentiel",
+      "negative" : false,
+      "power" : 0.19834575
+    }, {
+      "value" : "sous",
+      "negative" : false,
+      "power" : 0.14487499
+    }, {
+      "value" : "franc Pacifique",
+      "negative" : false,
+      "power" : 0.33089736
+    }, {
+      "value" : "fric",
+      "negative" : false,
+      "power" : 0.4
+    }, {
+      "value" : "sous>monnaie",
+      "negative" : false,
+      "power" : 0.30001533
+    }, {
+      "value" : "La Marseillaise",
+      "negative" : false,
+      "power" : 0.17341392
+    }, {
+      "value" : "constitutionnelle",
+      "negative" : false,
+      "power" : 0.20346272
+    }, {
+      "value" : "monnaies",
+      "negative" : false,
+      "power" : 0.2151064
+    }, {
+      "value" : "1539",
+      "negative" : false,
+      "power" : 0.21789645
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaies gauloises",
+      "negative" : true,
+      "power" : 0.13851152
+    }, {
+      "value" : "écosystème",
+      "negative" : false,
+      "power" : 0.3969793
+    }, {
+      "value" : "fric",
+      "negative" : false,
+      "power" : 0.4
+    }, {
+      "value" : "La Marseillaise",
+      "negative" : true,
+      "power" : 0.17109251
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.35826576
+    }, {
+      "value" : "argent",
+      "negative" : false,
+      "power" : 0.3437086
+    }, {
+      "value" : "monnaie de nécessité",
+      "negative" : false,
+      "power" : 0.17585571
+    }, {
+      "value" : "monnaies",
+      "negative" : false,
+      "power" : 0.21714683
+    }, {
+      "value" : "local",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "sous",
+      "negative" : false,
+      "power" : 0.14298531
+    }, {
+      "value" : "régime semi-présidentiel",
+      "negative" : true,
+      "power" : 0.19785286
+    } ]
+  }, {
+    "id" : 88,
+    "created" : "2020-05-15T16:28:10.785+02:00",
+    "owner" : 1,
+    "reformulation" : "par principe les monnaies locales impliquent des monnaies légales",
+    "argumentation" : "Les monnaies locales ont une existence légale  elles sont cautionnées par des fonds placés dans des banques.",
+    "selection" : "les monnaies locales...",
+    "startContainer" : "5/0",
+    "startOffset" : 245,
+    "endContainer" : "5/0",
+    "endOffset" : 268,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "PRINCIPLE" ],
+    "tags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "monnaie nationale",
+      "negative" : false,
+      "power" : 0.5170234
+    }, {
+      "value" : "crise sociale",
+      "negative" : false,
+      "power" : 0.9482329
+    }, {
+      "value" : "recensements de la population",
+      "negative" : false,
+      "power" : 0.69689673
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.9492632
+    }, {
+      "value" : "existence légale",
+      "negative" : false,
+      "power" : 0.5239483
+    }, {
+      "value" : "recensement de la population",
+      "negative" : false,
+      "power" : 0.44384295
+    }, {
+      "value" : "implique",
+      "negative" : false,
+      "power" : 0.47726935
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.6725838
+    }, {
+      "value" : "Institut national de la statistique et des études économiques",
+      "negative" : false,
+      "power" : 0.41539603
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.7550626
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.69124424
+    }, {
+      "value" : "MLC",
+      "negative" : false,
+      "power" : 0.33820876
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.78955454
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "légalité",
+      "negative" : false,
+      "power" : 0.8819444
+    } ]
+  }, {
+    "id" : 89,
+    "created" : "2020-05-19T13:44:09.963+02:00",
+    "owner" : 72,
+    "reformulation" : "Des investissements choisis et une affectation politique\n",
+    "argumentation" : "Elle permet des investissements, mais également, une monnaie citoyenne permet d'affecter la force de l'achat dans de structures qui font une production respectueuse de l'environnement et des humains. C'est donc une affectation dans un territoire de valeurs = communauté politique\n",
+    "selection" : "En effet&nbsp; elle permet des investissements choisis par des citoyens d'une même ville",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 83,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 81,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "EXPLANATION", "STRUCTURAL" ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "investissements collectifs",
+      "negative" : false,
+      "power" : 0.8331268
+    }, {
+      "value" : "investissement direct",
+      "negative" : false,
+      "power" : 0.27551198
+    }, {
+      "value" : "investissement industriel",
+      "negative" : false,
+      "power" : 0.64026946
+    }, {
+      "value" : "investissement étranger",
+      "negative" : false,
+      "power" : 0.6532806
+    }, {
+      "value" : "investissements stratégiques",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "investissements privés",
+      "negative" : false,
+      "power" : 0.37172356
+    }, {
+      "value" : "investissements publics",
+      "negative" : false,
+      "power" : 0.95525265
+    }, {
+      "value" : "investissement productif",
+      "negative" : false,
+      "power" : 0.56853646
+    }, {
+      "value" : "politique industrielle",
+      "negative" : false,
+      "power" : 0.9472403
+    } ]
+  }, {
+    "id" : 90,
+    "created" : "2020-05-19T13:51:43.227+02:00",
+    "owner" : 72,
+    "reformulation" : "c'est une opportunité de tenir compte de plusieurs dimensions de l'écosystème\n",
+    "argumentation" : "En effet, il ne s'agit pas d'être dans une réponse absolue à toutes les dimensions, nous pouvons vivre cela comme un défis. Mais par exemple, une monnaie complémentaire corporatiste, elle ne tiens pas nécessairement compte de l'environnement, donc ses outils monétaires ne chercheront pas à bénéficier des changements dans la production ou à favoriser les achats responsables... elles se limiteront à capter de la monnaie pour leur affaire. Dans le contexte actuel, cela n'est pas suffisant, donc un outil monétaire citoyen qui aidera à traverser la crises, peut, voir doit, se soucier de la nature et des humains pour intégrer une résilience. C'est à dire plus de diversité et d'interconnexion.\n",
+    "selection" : "c'est un problème, comment faire des monnaies qui tiennent compte&nbsp; de toutes les dimensions d'un écosystème",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 107,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 87,
+    "debate" : 6,
+    "opinion" : "AGAINST",
+    "hypostases" : [ "EXPLANATION" ],
+    "tags" : [ {
+      "value" : "container",
+      "negative" : false,
+      "power" : 0.17740473
+    }, {
+      "value" : "écosystème",
+      "negative" : false,
+      "power" : 0.5508357
+    }, {
+      "value" : "hypercube",
+      "negative" : false,
+      "power" : 0.19970305
+    }, {
+      "value" : "largeur",
+      "negative" : false,
+      "power" : 0.3767263
+    }, {
+      "value" : "réseau cristallin",
+      "negative" : false,
+      "power" : 0.17646183
+    }, {
+      "value" : "nombre d'ondes",
+      "negative" : false,
+      "power" : 0.96283543
+    }, {
+      "value" : "compter avec",
+      "negative" : false,
+      "power" : 0.39996865
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.19158895
+    }, {
+      "value" : "parallélotope",
+      "negative" : false,
+      "power" : 0.17123201
+    }, {
+      "value" : "monnaie de nécessité",
+      "negative" : false,
+      "power" : 0.17171696
+    }, {
+      "value" : "grandeurs",
+      "negative" : false,
+      "power" : 0.17066178
+    }, {
+      "value" : "local",
+      "negative" : false,
+      "power" : 0.58139575
+    }, {
+      "value" : "mesurable",
+      "negative" : false,
+      "power" : 0.2037642
+    }, {
+      "value" : "analyse dimensionnelle",
+      "negative" : false,
+      "power" : 0.9811876
+    }, {
+      "value" : "considérer",
+      "negative" : false,
+      "power" : 0.31789744
+    }, {
+      "value" : "polytope régulier",
+      "negative" : false,
+      "power" : 0.17123201
+    }, {
+      "value" : "nombre d'onde",
+      "negative" : false,
+      "power" : 0.9577905
+    }, {
+      "value" : "dimension",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "temple d'Hercule Olivarius",
+      "negative" : false,
+      "power" : 0.17594682
+    }, {
+      "value" : "répétence",
+      "negative" : false,
+      "power" : 0.96283543
+    } ],
+    "proposedTags" : [ {
+      "value" : "écosystème",
+      "negative" : false,
+      "power" : 0.5446292
+    }, {
+      "value" : "dimension religieuse",
+      "negative" : false,
+      "power" : 0.18398803
+    }, {
+      "value" : "dimension industrielle",
+      "negative" : false,
+      "power" : 0.18226044
+    }, {
+      "value" : "compter avec",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "dimension culturelle",
+      "negative" : false,
+      "power" : 0.19089837
+    }, {
+      "value" : "dimension bancaire",
+      "negative" : false,
+      "power" : 0.18744321
+    }, {
+      "value" : "dimension financière",
+      "negative" : false,
+      "power" : 0.19089837
+    }, {
+      "value" : "dimension",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "dimension politique",
+      "negative" : false,
+      "power" : 0.18226044
+    } ]
+  }, {
+    "id" : 91,
+    "created" : "2020-05-19T13:55:31.793+02:00",
+    "owner" : 72,
+    "reformulation" : "Elles ont une existence légale, car elles sont intégrés dans la loi !\n",
+    "argumentation" : "Ce qu'y fait la légalité c'est leur acceptation dans le cadre de la loi après un débat public (citoyens, structures de l'économie sociale et solidaire, assemblée nationale, sénat...). Le fonctionnement des fonds placés c'est, à mon avis, de l'ordre technique .\n",
+    "selection" : "Les monnaies locales ont une existence légale&nbsp; elles sont cautionnées par des fonds placés dans des banques.",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 108,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 88,
+    "debate" : 6,
+    "opinion" : "AGAINST",
+    "hypostases" : [ "STRUCTURAL" ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "existence légale",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "la loi",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "autorisation",
+      "negative" : false,
+      "power" : 0.11801862
+    } ]
+  }, {
+    "id" : 92,
+    "created" : "2020-05-19T14:18:53.644+02:00",
+    "owner" : 1,
+    "reformulation" : "la monnaie locale est un outil financier",
+    "argumentation" : "La monnaie locale et elle a servi sert comme outil au développement  local.",
+    "selection" : "La monnaie citoyenne est-elle un outil",
+    "startContainer" : "7/0",
+    "startOffset" : 0,
+    "endContainer" : "7/0",
+    "endOffset" : 38,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "QUALITATIVE" ],
+    "tags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.77764976
+    }, {
+      "value" : "outil",
+      "negative" : false,
+      "power" : 0.002325502
+    }, {
+      "value" : "financier",
+      "negative" : false,
+      "power" : 0.0010843722
+    }, {
+      "value" : "Sol-violette",
+      "negative" : false,
+      "power" : 0.0015898617
+    }, {
+      "value" : "MLC",
+      "negative" : false,
+      "power" : 0.38048488
+    }, {
+      "value" : "économie",
+      "negative" : false,
+      "power" : 0.001682495
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.88824886
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.008171586
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "locale",
+      "negative" : false,
+      "power" : 2.0423126E-4
+    } ],
+    "proposedTags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.69124424
+    }, {
+      "value" : "outil",
+      "negative" : false,
+      "power" : 0.0020796407
+    }, {
+      "value" : "financier",
+      "negative" : false,
+      "power" : 9.794959E-4
+    }, {
+      "value" : "Sol-violette",
+      "negative" : false,
+      "power" : 0.024193548
+    }, {
+      "value" : "économie",
+      "negative" : false,
+      "power" : 0.0015018104
+    }, {
+      "value" : "MLC",
+      "negative" : false,
+      "power" : 0.33820876
+    }, {
+      "value" : "monnaie locale complémentaire",
+      "negative" : false,
+      "power" : 0.78955454
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.0027342744
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "locale",
+      "negative" : false,
+      "power" : 0.0027230834
+    } ]
+  }, {
+    "id" : 93,
+    "created" : "2020-05-19T14:30:39.405+02:00",
+    "owner" : 1,
+    "reformulation" : "L'acceptation dans le cadre de la loi rend la monnaie locale légale",
+    "argumentation" : "Peut-on savoir quand cette loi a été votée",
+    "selection" : "Ce qu'y fait la légalité c'est leur acceptation dans le cadre de la loi après un débat public (citoyens, structures de l'économie sociale et solidaire, assemblée nationale, sénat...).",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 183,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 91,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.06785733
+    }, {
+      "value" : "loi-cadre",
+      "negative" : false,
+      "power" : 0.74284065
+    }, {
+      "value" : "existence légale",
+      "negative" : false,
+      "power" : 0.08280522
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.12485348
+    }, {
+      "value" : "cadre légal",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.09454831
+    }, {
+      "value" : "légalité",
+      "negative" : false,
+      "power" : 0.22270225
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "autorisation",
+      "negative" : false,
+      "power" : 0.07534282
+    } ]
+  }, {
+    "id" : 94,
+    "created" : "2020-05-19T16:52:12.661+02:00",
+    "owner" : {
+      "id" : 78,
+      "created" : "2020-05-19T16:49:39.781+02:00",
+      "username" : "JcPelotte",
+      "firstName" : "JC",
+      "lastName" : "Pelotte",
+      "email" : "andreapelotte@protonmail.com",
+      "tokenValidity" : "2020-06-30T09:38:28.34768+02:00",
+      "active" : true,
+      "invitedDebates" : null,
+      "comments" : null,
+      "createdDebates" : null,
+      "institution" : 0,
+      "teams" : null,
+      "notifications" : null,
+      "authority" : "USER"
+    },
+    "reformulation" : "C'est difficile vivre, mais pas impossible !\n",
+    "argumentation" : "Des outils d'échange de temps ou de troc existent aussi, ils sont complémentaires et valorisent l'économie du don.\n",
+    "selection" : "Sans monnaie, Il est de vivre...",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 32,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 85,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "QUALITATIVE" ],
+    "tags" : [ {
+      "value" : "inextricable",
+      "negative" : false,
+      "power" : 0.058939956
+    }, {
+      "value" : "infesable",
+      "negative" : false,
+      "power" : 0.6288067
+    }, {
+      "value" : "malcommode",
+      "negative" : false,
+      "power" : 0.12722547
+    }, {
+      "value" : "impraticable",
+      "negative" : false,
+      "power" : 0.06974677
+    }, {
+      "value" : "insociable",
+      "negative" : false,
+      "power" : 0.063906364
+    }, {
+      "value" : "malaisé",
+      "negative" : false,
+      "power" : 0.06381813
+    }, {
+      "value" : "irréalisable",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "inapplicable",
+      "negative" : false,
+      "power" : 0.13517737
+    }, {
+      "value" : "infaisable",
+      "negative" : false,
+      "power" : 0.17572796
+    }, {
+      "value" : "insurmontable",
+      "negative" : false,
+      "power" : 0.11986324
+    } ],
+    "proposedTags" : [ {
+      "value" : "vivre",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "impraticable",
+      "negative" : false,
+      "power" : 0.06974677
+    }, {
+      "value" : "infaisable",
+      "negative" : false,
+      "power" : 0.17572796
+    } ]
+  }, {
+    "id" : 95,
+    "created" : "2020-05-21T15:58:29.605+02:00",
+    "owner" : 1,
+    "reformulation" : "Le troc et l'échange de temps sont des outils complémentaires à la monnaie locale ils valorisent l'économie du don",
+    "argumentation" : "Ces outils sont complémentaires car ils ne font pas intervenir la monnaie",
+    "selection" : "Des outils d'échange de temps ou de troc existent aussi, ils sont complémentaires et valorisent l'économie du don.",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 114,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 94,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "EXPLANATION" ],
+    "tags" : [ {
+      "value" : "Unicode",
+      "negative" : false,
+      "power" : 0.20947102
+    }, {
+      "value" : "Don",
+      "negative" : false,
+      "power" : 0.46679157
+    }, {
+      "value" : "troc",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "bédane",
+      "negative" : false,
+      "power" : 0.19727665
+    }, {
+      "value" : "repoussoir",
+      "negative" : false,
+      "power" : 0.2339151
+    }, {
+      "value" : "nom de domaine internationalisé",
+      "negative" : false,
+      "power" : 0.4957005
+    }, {
+      "value" : "machette",
+      "negative" : false,
+      "power" : 0.22510056
+    }, {
+      "value" : "perceuse",
+      "negative" : false,
+      "power" : 0.21218093
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.5583304
+    }, {
+      "value" : "courriel",
+      "negative" : false,
+      "power" : 0.34582615
+    }, {
+      "value" : "URL",
+      "negative" : false,
+      "power" : 0.31062317
+    }, {
+      "value" : "cognée",
+      "negative" : false,
+      "power" : 0.25100458
+    }, {
+      "value" : "valorisation",
+      "negative" : false,
+      "power" : 0.74458647
+    }, {
+      "value" : "sarcloir",
+      "negative" : false,
+      "power" : 0.19740374
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 0.65099216
+    }, {
+      "value" : "crise commerciale",
+      "negative" : false,
+      "power" : 0.4104815
+    }, {
+      "value" : "crise financière",
+      "negative" : false,
+      "power" : 0.35243133
+    }, {
+      "value" : "moyen d'action",
+      "negative" : false,
+      "power" : 0.27173835
+    }, {
+      "value" : "outillage",
+      "negative" : false,
+      "power" : 0.21990317
+    }, {
+      "value" : "Jour complémentaire du calendrier républicain",
+      "negative" : false,
+      "power" : 0.19894147
+    } ],
+    "proposedTags" : [ {
+      "value" : "Don",
+      "negative" : false,
+      "power" : 0.46679157
+    }, {
+      "value" : "cognée",
+      "negative" : true,
+      "power" : 0.51891714
+    }, {
+      "value" : "troc",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "bédane",
+      "negative" : true,
+      "power" : 0.40122116
+    }, {
+      "value" : "valorisation",
+      "negative" : false,
+      "power" : 0.7446996
+    }, {
+      "value" : "repoussoir",
+      "negative" : true,
+      "power" : 0.46067268
+    }, {
+      "value" : "sarcloir",
+      "negative" : true,
+      "power" : 0.21501663
+    }, {
+      "value" : "perceuse",
+      "negative" : true,
+      "power" : 0.42127907
+    }, {
+      "value" : "machette",
+      "negative" : true,
+      "power" : 0.4591543
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "outillage",
+      "negative" : false,
+      "power" : 0.40076917
+    } ]
+  }, {
+    "id" : 96,
+    "created" : "2020-05-21T16:14:01.919+02:00",
+    "owner" : 1,
+    "reformulation" : "une monnaie citoyenne pour nous aider à traverser les crises doit donner plus de résilience aux relations entre les citoyens",
+    "argumentation" : "Je ne suis pas sur que ce soit inscrit comme un objectif pour les monnaies d'état",
+    "selection" : "un outil monétaire citoyen qui aidera à traverser la crises, peut, voir doit, se soucier de la nature et des humains pour intégrer une résilience. C'est à dire plus de diversité et d'interconnexion.",
+    "startContainer" : "0",
+    "startOffset" : 497,
+    "endContainer" : "0",
+    "endOffset" : 695,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 90,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.55091196
+    }, {
+      "value" : "crise économique",
+      "negative" : false,
+      "power" : 0.06843583
+    }, {
+      "value" : "citoyens",
+      "negative" : false,
+      "power" : 0.80431604
+    }, {
+      "value" : "crise financière",
+      "negative" : false,
+      "power" : 0.101513036
+    }, {
+      "value" : "citoyenneté",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "citoyenne",
+      "negative" : false,
+      "power" : 0.058299594
+    } ]
+  }, {
+    "id" : 97,
+    "created" : "2020-05-21T17:18:02.344+02:00",
+    "owner" : 1,
+    "reformulation" : "les monnaies locales pourraient servir lors de crises économiques et sociales",
+    "argumentation" : "Car elles pourraient être distribuées par d'autres circuit que celui du salaire",
+    "selection" : "monnaies citoyennes",
+    "startContainer" : "5/0",
+    "startOffset" : 30,
+    "endContainer" : "5/0",
+    "endOffset" : 49,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.029173216
+    }, {
+      "value" : "économie",
+      "negative" : false,
+      "power" : 0.39633217
+    }, {
+      "value" : "crise sociale",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "monnaie",
+      "negative" : false,
+      "power" : 0.24459815
+    }, {
+      "value" : "crise économique",
+      "negative" : false,
+      "power" : 0.23015898
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 0.030011676
+    } ]
+  }, {
+    "id" : 98,
+    "created" : "2020-05-26T10:58:59.427+02:00",
+    "owner" : 1,
+    "reformulation" : "Une monnaie locale corporatiste ne bénéficie pas toujours aux achats responsables",
+    "argumentation" : "Le lien entre la monnaie locale et  la défense de l'environnement passe par l'investissement sur une production et des achats responsables",
+    "selection" : "Mais par exemple, une monnaie complémentaire corporatiste, elle ne tiens pas nécessairement compte de l'environnement, donc ses outils monétaires ne chercheront pas à bénéficier des changements dans la production ou à favoriser les achats responsables...",
+    "startContainer" : "0",
+    "startOffset" : 124,
+    "endContainer" : "0",
+    "endOffset" : 378,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 90,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.5064244
+    }, {
+      "value" : "délégué du personnel",
+      "negative" : false,
+      "power" : 0.8418824
+    }, {
+      "value" : "microbiote de l'organisme humain",
+      "negative" : false,
+      "power" : 0.71710926
+    }, {
+      "value" : "William Childs Westmoreland",
+      "negative" : false,
+      "power" : 0.4304398
+    }, {
+      "value" : "Territoire de l'Alabama",
+      "negative" : false,
+      "power" : 0.39547786
+    }, {
+      "value" : "Bad Wiessee",
+      "negative" : false,
+      "power" : 0.38299087
+    }, {
+      "value" : "escalade d'un conflit",
+      "negative" : false,
+      "power" : 0.38551247
+    }, {
+      "value" : "microbiome",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "délégué syndical",
+      "negative" : false,
+      "power" : 0.8418824
+    }, {
+      "value" : "radiations",
+      "negative" : false,
+      "power" : 0.37752908
+    }, {
+      "value" : "achats",
+      "negative" : false,
+      "power" : 0.46339938
+    }, {
+      "value" : "bénéfices",
+      "negative" : false,
+      "power" : 0.36409947
+    }, {
+      "value" : "contrôle des infections",
+      "negative" : false,
+      "power" : 0.4564139
+    }, {
+      "value" : "Fred Mace",
+      "negative" : false,
+      "power" : 0.42958286
+    }, {
+      "value" : "comité d'entreprise",
+      "negative" : false,
+      "power" : 0.61309046
+    }, {
+      "value" : "Microbiote de l'organisme humain",
+      "negative" : false,
+      "power" : 0.55487514
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 0.4
+    }, {
+      "value" : "Bibliothèque nationale de France",
+      "negative" : false,
+      "power" : 0.39414385
+    }, {
+      "value" : "ventes",
+      "negative" : false,
+      "power" : 0.3735698
+    }, {
+      "value" : "virement bancaire",
+      "negative" : false,
+      "power" : 0.4351567
+    } ],
+    "proposedTags" : [ {
+      "value" : "achat à la hausse",
+      "negative" : false,
+      "power" : 0.6453268
+    }, {
+      "value" : "acheter sur Internet",
+      "negative" : false,
+      "power" : 0.9343534
+    }, {
+      "value" : "achat spéculatif",
+      "negative" : false,
+      "power" : 0.63805956
+    }, {
+      "value" : "achat compulsif",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "faire les vitrines",
+      "negative" : false,
+      "power" : 0.9810711
+    }, {
+      "value" : "monnaie locale corporative",
+      "negative" : false,
+      "power" : 0.0
+    } ]
+  }, {
+    "id" : 99,
+    "created" : "2020-05-26T11:05:55.821+02:00",
+    "owner" : 1,
+    "reformulation" : "des outils d'échange de service et de troc valorisent une économie du don ",
+    "argumentation" : "la monnaie locale devrait faciliter et non détruire une économie du don. Mais en a t'on des exemples quelque part?",
+    "selection" : "Des outils d'échange de temps ou de troc existent aussi, ils sont complémentaires et valorisent l'économie du don.",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 114,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 94,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ ],
+    "tags" : [ {
+      "value" : "varlope",
+      "negative" : false,
+      "power" : 0.2798491
+    }, {
+      "value" : "Don",
+      "negative" : false,
+      "power" : 0.37225312
+    }, {
+      "value" : "troc",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "Pactole",
+      "negative" : false,
+      "power" : 0.22955187
+    }, {
+      "value" : "bédane",
+      "negative" : false,
+      "power" : 0.22349223
+    }, {
+      "value" : "repoussoir",
+      "negative" : false,
+      "power" : 0.24821562
+    }, {
+      "value" : "machette",
+      "negative" : false,
+      "power" : 0.25254276
+    }, {
+      "value" : "perceuse",
+      "negative" : false,
+      "power" : 0.21283033
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.22078182
+    }, {
+      "value" : "herminette",
+      "negative" : false,
+      "power" : 0.23308624
+    }, {
+      "value" : "râpe",
+      "negative" : false,
+      "power" : 0.20134182
+    }, {
+      "value" : "cognée",
+      "negative" : false,
+      "power" : 0.26888284
+    }, {
+      "value" : "outils divers de bottier",
+      "negative" : false,
+      "power" : 0.36589316
+    }, {
+      "value" : "tournevis",
+      "negative" : false,
+      "power" : 0.31834587
+    }, {
+      "value" : "filière",
+      "negative" : false,
+      "power" : 0.23593909
+    }, {
+      "value" : "valorisation",
+      "negative" : false,
+      "power" : 0.5938688
+    }, {
+      "value" : "cisaille",
+      "negative" : false,
+      "power" : 0.2046483
+    }, {
+      "value" : "sarcloir",
+      "negative" : false,
+      "power" : 0.22115003
+    }, {
+      "value" : "outillage",
+      "negative" : false,
+      "power" : 0.2203425
+    }, {
+      "value" : "courtage",
+      "negative" : false,
+      "power" : 0.252242
+    } ],
+    "proposedTags" : [ {
+      "value" : "varlope",
+      "negative" : true,
+      "power" : 0.29757398
+    }, {
+      "value" : "Don",
+      "negative" : false,
+      "power" : 0.37225312
+    }, {
+      "value" : "troc",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "Pactole",
+      "negative" : true,
+      "power" : 0.22955187
+    }, {
+      "value" : "bédane",
+      "negative" : true,
+      "power" : 0.2383655
+    }, {
+      "value" : "repoussoir",
+      "negative" : true,
+      "power" : 0.2640469
+    }, {
+      "value" : "machette",
+      "negative" : true,
+      "power" : 0.26949936
+    }, {
+      "value" : "perceuse",
+      "negative" : true,
+      "power" : 0.22526218
+    }, {
+      "value" : "herminette",
+      "negative" : true,
+      "power" : 0.23308624
+    }, {
+      "value" : "cognée",
+      "negative" : true,
+      "power" : 0.28771666
+    }, {
+      "value" : "outils divers de bottier",
+      "negative" : true,
+      "power" : 0.36249366
+    }, {
+      "value" : "tournevis",
+      "negative" : true,
+      "power" : 0.33203343
+    }, {
+      "value" : "filière",
+      "negative" : true,
+      "power" : 0.25303754
+    }, {
+      "value" : "valorisation",
+      "negative" : false,
+      "power" : 0.8049836
+    }, {
+      "value" : "cisaille",
+      "negative" : true,
+      "power" : 0.2183971
+    }, {
+      "value" : "sarcloir",
+      "negative" : true,
+      "power" : 0.23641664
+    }, {
+      "value" : "outillage",
+      "negative" : false,
+      "power" : 0.6481575
+    } ]
+  }, {
+    "id" : 101,
+    "created" : "2020-06-05T15:25:18.43+02:00",
+    "owner" : 1,
+    "reformulation" : "Une monnaie locale a une  reconnaissance par la loi après qu'elle ait été reconnu par un débat public",
+    "argumentation" : "Il y a en France un cadre juridique pour la reconnaissance des monnaies locales",
+    "selection" : "Ce qu'y fait la légalité c'est leur acceptation dans le cadre de la loi après un débat public",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 93,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 91,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "QUALITATIVE" ],
+    "tags" : [ {
+      "value" : "monnaie locale complémentaire et citoyenne",
+      "negative" : false,
+      "power" : 0.2773438
+    }, {
+      "value" : "reconnaissance de la marque",
+      "negative" : false,
+      "power" : 0.17551337
+    }, {
+      "value" : "statut de Taïwan",
+      "negative" : false,
+      "power" : 0.17224376
+    }, {
+      "value" : "reconnaissance du terrain",
+      "negative" : false,
+      "power" : 0.16929683
+    }, {
+      "value" : "reconnaissance spatiale",
+      "negative" : false,
+      "power" : 0.16378002
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.3383014
+    }, {
+      "value" : "se rappeler",
+      "negative" : false,
+      "power" : 0.33995306
+    }, {
+      "value" : "filiation",
+      "negative" : false,
+      "power" : 0.26824012
+    }, {
+      "value" : "reconnaissance des molécules",
+      "negative" : false,
+      "power" : 0.16171123
+    }, {
+      "value" : "reconnaissance de paiement",
+      "negative" : false,
+      "power" : 0.17688243
+    }, {
+      "value" : "reconnaissance judiciaire",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "reconnaissance publique",
+      "negative" : false,
+      "power" : 0.16860722
+    }, {
+      "value" : "reçu",
+      "negative" : false,
+      "power" : 0.1945459
+    }, {
+      "value" : "explorer",
+      "negative" : false,
+      "power" : 0.19113776
+    }, {
+      "value" : "reconnaissance rapide",
+      "negative" : false,
+      "power" : 0.1763348
+    }, {
+      "value" : "MLCC",
+      "negative" : false,
+      "power" : 0.2503863
+    }, {
+      "value" : "reconnaissance d'écriture",
+      "negative" : false,
+      "power" : 0.16033202
+    }, {
+      "value" : "débat public",
+      "negative" : false,
+      "power" : 0.19774416
+    }, {
+      "value" : "reconnaissance internationale",
+      "negative" : false,
+      "power" : 0.16826242
+    }, {
+      "value" : "reconnaissance faciale",
+      "negative" : false,
+      "power" : 0.17660862
+    } ],
+    "proposedTags" : [ {
+      "value" : "reconnaissance de la marque",
+      "negative" : true,
+      "power" : 0.17551337
+    }, {
+      "value" : "reconnaissance publique",
+      "negative" : false,
+      "power" : 0.435247
+    }, {
+      "value" : "reconnaissance judiciaire",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "reconnaissance du terrain",
+      "negative" : false,
+      "power" : 0.43702716
+    }, {
+      "value" : "reconnaissance spatiale",
+      "negative" : true,
+      "power" : 0.16378002
+    }, {
+      "value" : "reconnaissance d'écriture",
+      "negative" : true,
+      "power" : 0.41388518
+    }, {
+      "value" : "monnaie locale",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "débat public",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "monnaie légale",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "reconnaissance des molécules",
+      "negative" : true,
+      "power" : 0.41744548
+    }, {
+      "value" : "reconnaissance faciale",
+      "negative" : true,
+      "power" : 0.4305741
+    } ]
+  }, {
+    "id" : 102,
+    "created" : "2020-06-08T10:34:13.032+02:00",
+    "owner" : 1,
+    "reformulation" : "les utilisateurs et les porteurs de la monnaie locale choisissent sur quels projets ils veulent investir",
+    "argumentation" : "Une monnaie locale est pensée pour intervenir localement sur des questions importantes comme la pauvreté, l'éducation, l'économie solidaire, la biodiversité",
+    "selection" : "Ces porteurs et utilisateurs sont locaux ils peuvent se concerter pour utiliser les monnaies locales pour faire les investissements qui leurs paraissent les plus justifiés",
+    "startContainer" : "0",
+    "startOffset" : 0,
+    "endContainer" : "0",
+    "endOffset" : 171,
+    "moderated" : false,
+    "signaled" : false,
+    "comments" : null,
+    "parent" : 80,
+    "debate" : 6,
+    "opinion" : "FOR",
+    "hypostases" : [ "EXPLANATION" ],
+    "tags" : [ ],
+    "proposedTags" : [ {
+      "value" : "utilisateur",
+      "negative" : false,
+      "power" : 0.19281591
+    }, {
+      "value" : "investissement",
+      "negative" : false,
+      "power" : 0.0
+    }, {
+      "value" : "Internet",
+      "negative" : false,
+      "power" : 0.2042194
+    }, {
+      "value" : "monnaies locales",
+      "negative" : false,
+      "power" : 0.3262937
+    }, {
+      "value" : "poser une question",
+      "negative" : false,
+      "power" : 1.0
+    }, {
+      "value" : "répondre à des besoins",
+      "negative" : false,
+      "power" : 0.42219114
+    } ]
+  } ],
+  "document" : {
+    "id" : 8,
+    "created" : "2020-05-04T14:10:41.251+02:00",
+    "name" : "Les monnaies locales sont-elles un outil pour \"sauver\" l'économie locale et dans quelles conditions?",
+    "author" : "Andréa Caro Gomez",
+    "content" : "<p>Les monnaies citoyennes sont des outils d'échange qui participent à l'appropriation et à l'émergence du sujet politique. Elles mettent en évidence que la monnaie n'est pas juste un voile sur l'économie, la monnaie sous-entend une manière de voir, de faire et d'organiser la société.</p><p><br></p><p>Les monnaies locales permettent de se questionner sur cet outil que nous banalisons et que nous avons délégué à des experts... Les monnaies</p><p>citoyennes sont des outils co-construits par les parties prenantes du circuit économique qui cherchent à refaire société ensemble.&nbsp;</p><p><br></p><p>Il existe plusieurs types des monnaies citoyennes : Les systèmes d'échange locaux SELS, les banques du temps, les plateformes de troc, les réseaux des échanges de savoir, des systèmes à points, les accorderies, les barters, les monnaies libres, les monnaies locales... Elles répondent toutes à une diversité des besoins sociaux, écologiques et territoriaux identifiés par leurs porteurs et utilisateurs.</p><p><br></p><p>La monnaie citoyenne est-elle un outil qui peut répondre à cette période de crise financière ? Est-que les monnaies locales sont un outil pour \"sauver\" l'économie locale et dans quelles conditions ?&nbsp;</p><p><br></p><p>Les monnaies citoyennes peuvent répondre, car elles répondent déjà à des manques dans une crise structurelle. Nous pouvons voir le film qui raconte l’expérimentation dans la ville de Wörgl en Autriche après la crise des années 30 et juste avant la Seconde Guerre mondiale. Le lien du film des monnaies miraculeuses :&nbsp;</p><p><a href=\"https://www.youtube.com/watch?v=Zy56N2kE7lc\" target=\"_blank\">https://www.youtube.com/watch?v=Zy56N2kE7lc</a></p><p><br></p><p>Cependant une monnaie citoyenne, répondra davantage si elle tient compte des autres crises : écologique, sociale, politique... Elles doivent permettre d'encourager les échanges pour faciliter la création et la production, mais en appuyant une demande écologique et respectueuse des êtres vivants. Elles doivent aussi intégrer la délibération en identifiant ensemble et collectivement ce que nous voulons voir grandir dans la société : quoi compter, comment compter, pourquoi compter cela... est que cela vraiment compte pour nous ?&nbsp;</p><p><br></p><p>Une pluralité des monnaies permettent aussi de gagner en résilience dans un système monétaire. Donc il s'agit de créer une multiplicité</p><p>d'outils, mais non seulement, ils doivent tenir compte aussi de l'écosystème. Ce qu'implique aussi un soutien à la biodiversité et aux interconnexions.&nbsp;</p>",
+    "category" : {
+      "id" : 6,
+      "name" : "Les monnaies locales peuvent-elles \"sauver\" l'économie locale ? ",
+      "picture" : "http://monnaie-locale-complementaire-citoyenne.net/wp-content/uploads/2013/05/logo-SOL-sans-bande.jpeg",
+      "documents" : null,
+      "debatesCount" : 2,
+      "documentsCount" : 0,
+      "lastCommentDate" : "2020-07-03T13:13:46.730+00:00"
+    },
+    "debates" : null,
+    "debatesCount" : 1
+  },
+  "commentsCount" : 25,
+  "commentsCountFor" : 21,
+  "commentsCountAgainst" : 4,
+  "lastCommentDate" : "2020-07-03T15:13:46.73+02:00",
+  "withHypostases" : true,
+  "reformulationCheck" : true,
+  "idfixLink" : true,
+  "openPublic" : true
+}
