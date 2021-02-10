@@ -1,4 +1,4 @@
-# TER_M1
+# TER M1
 Travail d'Étude et de Recherche
 Intelligence artificielle et gestion de débat
 
